@@ -6,7 +6,6 @@
 /include
 /out
 /build
-/Packages
 /test/Packages
 /test/modules
 sourcemap.json

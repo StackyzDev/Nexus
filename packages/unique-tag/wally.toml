@@ -1,0 +1,9 @@
+[package]
+name = "stackyzdev/uniquetag"
+description = "UniqueTag"
+version = "1.4.2"
+license = "MIT"
+authors = ["Kauã Rosa Borges"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json"]

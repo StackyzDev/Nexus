@@ -1,0 +1,14 @@
+[package]
+name = "stackyzdev/reactive-store"
+description = "Reactive Store"
+version = "1.3.2"
+license = "MIT"
+authors = ["Kauã Rosa Borges"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json"]
+
+[dependencies]
+Signal = "stackyzdev/signal@^1"
+Assert = "stackyzdev/assert@^1"
+UniqueTag = "stackyzdev/uniquetag@^1"

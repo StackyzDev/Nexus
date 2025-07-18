@@ -1,0 +1,13 @@
+[package]
+name = "stackyzdev/enumtype"
+description = "EnumType"
+version = "1.0.0"
+license = "MIT"
+authors = ["Kauã Rosa Borges"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+exclude = ["node_modules", "package.json"]
+
+[dependencies]
+UniqueTag = "stackyzdev/uniquetag@^1"
+Assert = "stackyzdev/assert@^1"
