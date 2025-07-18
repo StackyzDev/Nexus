@@ -1,0 +1,19 @@
+{
+    "name": "nexus",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "Packages": {
+                "$path": "test/Packages"
+            }
+        },
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "$path": "ci",
+            "Packages": {
+                "$path": "test/ServerPackages"
+            }
+        }
+    }
+}

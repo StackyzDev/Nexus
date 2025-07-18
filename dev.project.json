@@ -1,0 +1,11 @@
+{
+  "name": "nexus-dev",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "test/packages"
+      }
+    }
+  }
+}

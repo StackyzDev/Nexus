@@ -1,0 +1,11 @@
+{
+  "name": "nexus",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "nexus": {
+        "$path": "out"
+      }
+    }
+  }
+}

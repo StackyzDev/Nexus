@@ -1,0 +1,16 @@
+[std]
+"roblox"
+globals = [
+    "describe",
+    "it",
+    "beforeEach",
+    "afterEach",
+    "expect",
+]
+
+[rules]
+unused_variable = "allow"
+shadowing = "allow"
+
+[[exclude]]
+glob = "**/*.spec.luau"

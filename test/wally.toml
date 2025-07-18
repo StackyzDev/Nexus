@@ -1,0 +1,16 @@
+[package]
+name = "stackyzdev/nexus"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Assert = "stackyzdev/assert@^1"
+EnumType = "stackyzdev/enumtype@^1"
+UniqueTag = "stackyzdev/uniquetag@^1"
+Signal = "stackyzdev/signal@^1"
+Logger = "stackyzdev/logger@^1"
+ReactiveStore = "stackyzdev/reactive-store@^1.3.2"
+
+[server-dependencies]
+TestEZ = "roblox/testez@^0"

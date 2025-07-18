@@ -1,0 +1,12 @@
+*.zip
+/Nexus.rbxlx
+/*.rbxlx.lock
+/*.rbxl.lock
+/node_modules
+/include
+/out
+/build
+/Packages
+/test/Packages
+/test/modules
+sourcemap.json
